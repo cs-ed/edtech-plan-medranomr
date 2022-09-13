@@ -1,19 +1,22 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8295716&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+The purpose of your educational technology plan is to outline the course that I will presumably teach in the 2023-24 school year as well as describe the necessary technological tools needed to implement it.
 
 ## Context
 
 ### Course
 
-Describe your course including the name, description, and grade level
+GC721/2 A.P. Computer Science Principles Grades 9-11
+AP Computer Science Principles offers a multidisciplinary approach to teaching the underlying principles of computation. The course will introduce students to the creative aspects of programming, abstractions, algorithms, large data sets, the Internet, cybersecurity concerns, and computing impacts. AP Computer Science Principles will give students the opportunity to use technology to address real-world problems and build relevant solutions.
+https://courses.oxnardunion.org/courses/ap-comp-sci-principles/
 
 ### Situation
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?
+Every student in my school district is provided a chromebook and is offered a hot spot, but not all students have reliable wifi at home. Thus, the majority of activities and assignments have to be done in class. Most students do not have prior experience with programming, so I will need to possibly take more time to teach block coding, etc.
 
 ## Plan
 
