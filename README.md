@@ -8,8 +8,10 @@ The purpose of your educational technology plan is to outline the course that I 
 ### Course
 
 **A.P. Computer Science Principles**
->CourseNumber: GC721/2 
->Grades 9-11
+
+CourseNumber: GC721/2 
+
+Grades 9-11
 
 AP Computer Science Principles offers a multidisciplinary approach to teaching the underlying principles of computation. The course will introduce students to the creative aspects of programming, abstractions, algorithms, large data sets, the Internet, cybersecurity concerns, and computing impacts. AP Computer Science Principles will give students the opportunity to use technology to address real-world problems and build relevant solutions.
 
