@@ -46,6 +46,7 @@ Chromebook: https://www.acer.com/us-en/chromebooks/acer-chromebook-spin-511-r753
 
 The course has 10 modules, this consists of 5 units with 65 assignments. Given that my school site schedules AP testing in May, this means students must complete one assignment every two days. These assingments are typically activities wherein students work together to complete tasks or conduct research into topics that align to the college board's conceptual framework. Throughout the course students are given real life examples and relevant articles to read about the topics presented, they are given discussion prompts and time with their classmates to develop their understanding. Jigsaw activities will be used throughout the class to allow students to be exposed to all the reading material without having to do it all, having each team read one and present to the whole class solidifies their understanding. The district has enables the google read & write extension on all chromebooks so students can have online content read outloud to them.
 Assessments are geared towards preparing students for the AP test and will ge graded using the college board's scoring guidelines. 
+
 Sample Responses and Scoring Guidelines: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam/past-exam-questions
 
 ### Impacts
