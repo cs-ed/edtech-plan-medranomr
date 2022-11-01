@@ -29,8 +29,10 @@ Aaaron Fergusson is the designated district canvas support provider and typicall
 
 ### Software Specifications
 
-This course will be offered through the district's Oxnard Online portal (Canvas Learning Management System). I will teach students from the free code.org curriculum. This curriculum has been adapted into canvas by Maya Crosby and I will use her course as the frame for mine. I will supplement AP test practice from the canvas course developed by Banjamin Smith.
+This course will be offered through the district's Oxnard Online portal (Canvas Learning Management System). I will teach students from the free code.org curriculum. This curriculum has been adapted into canvas by Maya Crosby and I will use her course as the frame for mine. I will supplement AP test practice from the canvas course developed by Benjamin Smith.
+
 Maya Crosby's course: https://lor.instructure.com/resources/72c89a0f8c1c4aa6848cf24173a27ace
+
 Benjamin Smith's course: https://lor.instructure.com/resources/72c89a0f8c1c4aa6848cf24173a27ace
 
 ### Hardware Specifications
