@@ -23,7 +23,7 @@ Every student in my school district is provided a chromebook and is offered a ho
 
 Each school site in my district has an assigned IT Technician whose job it is to support all on-site devices. For Chromebook support, students and staff submit helpdesk tickets via a link on the district website or QR Codes posted in every classroom. Turn around is typically less than 48 hours and students may be issued a temporary chromebook while theirs is fixed. Students are also given the option to purchase yearly chromebook insurance through the Worth Ave. Group, this insurance replaces their chromebook indefinitely regardless of the reason. 
 
-Aaaron Fergusson is the designated district canvas support provider and typically answers and solves canvas issues within 24 hours. Jay Sorensen is the district coordinator of educational technology, he answers most chromebook questions within 24 hours.Reina Berenjano is the district chief technology officer, and is on top of network support, and typically informs staff of planned and unplanned outages as well as expected uptime.
+Aaaron Fergusson is the designated district canvas support provider and typically answers and solves canvas issues within 24 hours. Jay Sorensen is the district coordinator of educational technology, he answers most chromebook questions within 24 hours. Reina Berenjano is the district chief technology officer, and is the head of network support, she typically informs staff of planned and unplanned outages as well as expected uptime.
 
 ## Plan
 
