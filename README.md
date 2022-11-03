@@ -19,7 +19,7 @@ https://courses.oxnardunion.org/courses/ap-comp-sci-principles/
 
 ### Situation
 
-Every student in my school district is provided a chromebook and is offered a hot spot, regardless, not all students have reliable wifi at home. Thus, the majority of activities and assignments have to be done in class. Most students do not have prior experience with programming, so I will need to devote more time in the pacing to teach it. A few students may have esperience with pyret because of the data science class offered on site, they will likely be able to adapt their previous knowledge.
+Every student in my school district is provided a chromebook and is offered a hot spot, regardless, not all students have reliable wifi at home. Thus, the majority of activities and assignments have to be done in class. Most students do not have prior experience with programming, so I will need to devote more time in the pacing to teach it. A few students may have experience with pyret because of the data science class offered on site, they will likely be able to adapt their previous knowledge.
 
 Each school site in my district has an assigned IT Technician whose job it is to support all on-site devices. For Chromebook support, students and staff submit helpdesk tickets via a link on the district website or QR Codes posted in every classroom. Turn around is typically less than 48 hours and students may be issued a temporary chromebook while theirs is fixed. Students are also given the option to purchase yearly chromebook insurance through the Worth Ave. Group, this insurance replaces their chromebook indefinitely regardless of the reason. 
 
