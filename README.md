@@ -51,4 +51,4 @@ Sample Responses and Scoring Guidelines: https://apcentral.collegeboard.org/cour
 
 ### Impacts
 
-The technology will help all students learn as they will access the content primarily through their chromebooks because there is no aligned textbook. Typically, the district wifi network is stable but in the case of it not working, I would adapt lessons to paper pencil/paper worksheets and/or printed articles. This should be possible as the wired connection has only ever gone down due to wildfires in the region, at that point school was cancelled, and neither students nor staff were expected to work. 
+The technology will help all students learn as they will access the content primarily through their chromebooks because there is no aligned textbook. Typically, the district wifi network is stable but in the case of it not working, I would adapt lessons to paper pencil/paper worksheets and/or printed articles. This should be possible as the wired connection has only ever gone down due to wildfires in the region, at that point school was canceled, and neither students nor staff were expected to work. 
