@@ -21,7 +21,7 @@ https://courses.oxnardunion.org/courses/ap-comp-sci-principles/
 
 Every student in my school district is provided a chromebook and is offered a hot spot, regardless, not all students have reliable wifi at home. Thus, the majority of activities and assignments have to be done in class. Most students do not have prior experience with programming, so I will need to devote more time in the pacing to teach it. A few students may have experience with pyret because of the data science class offered on site, they will likely be able to adapt their previous knowledge.
 
-Each school site in my district has an assigned IT Technician whose job it is to support all on-site devices. For Chromebook support, students and staff submit helpdesk tickets via a link on the district website or QR Codes posted in every classroom. Turn around is typically less than 48 hours and students may be issued a temporary chromebook while theirs is fixed. Students are also given the option to purchase yearly chromebook insurance through the Worth Ave. Group, this insurance replaces their chromebook indefinitely regardless of the reason. 
+Each school site in my district has an assigned IT Technician, Jose Perez, whose job it is to support all on-site devices. For Chromebook support, students and staff submit helpdesk tickets via a link on the district website or QR Codes posted in every classroom. Turn around is typically less than 48 hours and students may be issued a temporary chromebook while theirs is fixed. Students are also given the option to purchase yearly chromebook insurance through the Worth Ave. Group, this insurance replaces their chromebook indefinitely regardless of the reason. 
 
 Aaaron Fergusson is the designated district canvas support provider and typically answers and solves canvas issues within 24 hours. Jay Sorensen is the district coordinator of educational technology, he answers most chromebook questions within 24 hours. Reina Berenjano is the district chief technology officer, and is the head of network support, she typically informs staff of planned and unplanned outages as well as expected uptime.
 
@@ -45,7 +45,10 @@ Chromebook: https://www.acer.com/us-en/chromebooks/acer-chromebook-spin-511-r753
 ### Application
 
 The course has 10 modules, this consists of 5 units with 65 assignments. Given that my school site schedules AP testing in May, this means students must complete one assignment every two days. These assingments are typically activities wherein students work together to complete tasks or conduct research into topics that align to the college board's conceptual framework. Throughout the course students are given real life examples and relevant articles to read about the topics presented, they are given discussion prompts and time with their classmates to develop their understanding. Jigsaw activities will be used throughout the class to allow students to be exposed to all the reading material without having to do it all, having each team read one and present to the whole class solidifies their understanding. The district has enables the google read & write extension on all chromebooks so students can have online content read outloud to them.
-Assessments are geared towards preparing students for the AP test and will ge graded using the college board's scoring guidelines. 
+Assessments are geared towards preparing students for the AP test and will ge graded using the college board's scoring guidelines. Recently the district has encouraged students to participate in the Hour of Code and Hackathon by the Sea and students from this class would also have these opportunities offered to them.
+
+https://hourofcode.com/us/learn
+https://www.vcoe.org/hackathon
 
 Sample Responses and Scoring Guidelines: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam/past-exam-questions
 
