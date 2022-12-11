@@ -48,6 +48,7 @@ The course has 10 modules, this consists of 5 units with 65 assignments. Given t
 Assessments are geared towards preparing students for the AP test and will ge graded using the college board's scoring guidelines. Recently the district has encouraged students to participate in the Hour of Code and Hackathon by the Sea and students from this class would also have these opportunities offered to them.
 
 https://hourofcode.com/us/learn
+
 https://www.vcoe.org/hackathon
 
 Sample Responses and Scoring Guidelines: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam/past-exam-questions
